@@ -16,19 +16,7 @@ Este é um programa simples em Python orientado a objetos para gerenciar uma bib
 
 ## Requisitos
 
-- Python 3.x
-
-## Como Executar
-
-1. Clone este repositório ou baixe o arquivo fonte.
-
-2. Navegue até o diretório onde o arquivo foi salvo.
-
-3. Execute o programa com o seguinte comando:
-
-    ```bash
-    python biblioteca.py
-    ```
+- Google Colab
 
 ## Instruções de Uso
 
